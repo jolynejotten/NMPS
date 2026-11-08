@@ -1,0 +1,73 @@
+Starting connection to ws://127.0.0.1:4455
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+SetCurrentProgramScene called: Gaming
+Not identified yet; queued scene: Gaming
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+SetCurrentProgramScene called: Gaming
+Not identified yet; queued scene: Gaming
+SetCurrentProgramScene called: Gaming
+Not identified yet; queued scene: Gaming
+SetCurrentProgramScene called: Gaming
+Not identified yet; queued scene: Gaming
+Starting connection to ws://127.0.0.1:4455
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+SetCurrentProgramScene called: Gaming
+Not identified yet; queued scene: Gaming
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+SetCurrentProgramScene called: Gaming
+Not identified yet; queued scene: Gaming
+SetCurrentProgramScene called: Gaming
+Not identified yet; queued scene: Gaming
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
+WebSocket error: Unable to connect to 127.0.0.1 on port 4455, error: Either the application has not called WSAStartup, or WSAStartup failed. 
